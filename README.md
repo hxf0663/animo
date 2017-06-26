@@ -1,1 +1,1 @@
-# animo:let animate.css more powerful.
+# animo.js: make animate.css more powerful.
